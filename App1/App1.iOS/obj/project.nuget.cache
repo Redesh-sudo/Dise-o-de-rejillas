@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TzuyWsGb/4gZFxcnKTbPChMdXNRw8Yr/icjV+7NrZiaKt79CdW2DheaH4ZCkHoqsw3jJ4v8h9p+r7IsS1WTCPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danto\\source\\repos\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danto\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
